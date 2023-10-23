@@ -1,0 +1,18 @@
+.counter-show {
+    min-width: 100%;
+    min-height: 95vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    background-color: ghostwhite;
+}
+
+.counter i {
+    font-size: 40px;
+}
+
+.counter h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #64696e;
+}
